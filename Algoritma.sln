@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algoritma.csproj", "{69046B52-90EA-456F-95B7-97BCBAD1A06B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2", "Exercise 2\Exercise 2.csproj", "{5F021193-8D09-4A2E-98F8-FF6E8E38164C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69046B52-90EA-456F-95B7-97BCBAD1A06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69046B52-90EA-456F-95B7-97BCBAD1A06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69046B52-90EA-456F-95B7-97BCBAD1A06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F021193-8D09-4A2E-98F8-FF6E8E38164C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F021193-8D09-4A2E-98F8-FF6E8E38164C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F021193-8D09-4A2E-98F8-FF6E8E38164C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F021193-8D09-4A2E-98F8-FF6E8E38164C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
